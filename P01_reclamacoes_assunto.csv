@@ -1,0 +1,241 @@
+﻿id;texto;categoria_assunto;canal;particao_recomendada
+REC-0039;Gente, o pacote está parado no rastreamento há vários dias novamente;entrega;site;treino
+REC-0143;Boa tarde, não consigo concluir o pagamento pelo aplicativo até agora Aguardo retorno.;pagamento;aplicativo;treino
+REC-0216;Gente, preciso trocar o tamanho do item recebido desde ontem Obrigado.;troca_devolucao;email;validacao
+REC-0238;Olá, o código de postagem para troca não funciona desde ontem Isso é urgente.;troca_devolucao;email;treino
+REC-0117;o desconto anunciado não foi aplicado no fechamento depois da atualização Conseguem verificar?;pagamento;aplicativo;treino
+REC-0176;Boa tarde, recebi respostas diferentes para o mesmo problema depois da atualização Obrigado.;atendimento;chat;treino
+REC-0011;Preciso de ajuda: o endereço está correto, porém a transportadora não entregou no fim de semana Isso é urgente.;entrega;site;teste
+REC-0129;o desconto anunciado não foi aplicado no fechamento na última tentativa;pagamento;aplicativo;teste
+REC-0110;  Gente,  o  aparelho desliga sozinho desde o primeiro uso até agora Conseguem verificar?  ;produto;site;validacao
+REC-0234;Gente, preciso trocar o tamanho do item recebido até agora Obrigado.;troca_devolucao;email;treino
+REC-0046;Olá, a caixa chegou depois da data prometida há dois dias Isso é urgente.;entrega;email;teste
+REC-0181;Por favor, não consigo falar com uma pessoa no suporte desde a compra Isso é urgente.;atendimento;aplicativo;treino
+REC-0001;Olá, o produto parece correto, mas chegou muito depois do prazo desde ontem;produto;site;teste
+REC-0023;Preciso de ajuda: o endereço está correto, porém a transportadora não entregou desde ontem Obrigado.;entrega;site;treino
+REC-0070;Preciso de ajuda: a embalagem estava intacta, mas o produto veio com defeito desde ontem Obrigado.;produto;site;validacao
+REC-0097;Preciso de ajuda: a peça veio faltando dentro da embalagem novamente Aguardo retorno.;produto;email;treino
+REC-0076;Preciso de ajuda: a embalagem estava intacta, mas o produto veio com defeito pela segunda vez Isso é urgente.;produto;site;treino
+REC-0014;;entrega;email;treino
+REC-0212;Preciso de ajuda: quero devolver o produto dentro do prazo até agora;troca_devolucao;email;treino
+REC-0101;Gente, o produto chegou quebrado e não funciona hoje pela manhã 😕;produto;email;treino
+REC-0033;Gente, o produto parece correto, mas chegou muito depois do prazo no fim de semana Aguardo retorno.;entrega;site;treino
+REC-0096;Olá, o item recebido é diferente do anunciado na última tentativa Aguardo retorno.;produto;site;treino
+REC-0153;o desconto anunciado não foi aplicado no fechamento pela segunda vez Conseguem verificar?;pagamento;aplicativo;treino
+REC-0222;Gente, preciso trocar o tamanho do item recebido pela segunda vez Isso é urgente.;troca_devolucao;email;treino
+REC-0044;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada no fim de semana Conseguem verificar?;entrega;email;treino
+REC-0112;Preciso de ajuda: a embalagem estava intacta, mas o produto veio com defeito hoje pela manhã Isso é urgente.;produto;site;treino
+REC-0051;Gente, o pacote está parado no rastreamento há vários dias pela segunda vez Aguardo retorno.;entrega;site;teste
+REC-0200;BOA TARDE, RECEBI RESPOSTAS DIFERENTES PARA O MESMO PROBLEMA NOVAMENTE ISSO É URGENTE.;atendimento;chat;treino
+REC-0082;Preciso de ajuda: a embalagem estava intacta, mas o produto veio com defeito há dois dias 😕;produto;site;treino
+REC-0034;Olá, a caixa chegou depois da data prometida desde ontem 😕;entrega;email;treino
+REC-0177;o prazo informado pelo atendente não foi cumprido na última tentativa Conseguem verificar?;atendimento;aplicativo;teste
+REC-0132;o pagamento foi aprovado, mas o pedido continua pendente até agora Obrigado.;pagamento;chat;treino
+REC-0138;o pedido chegou, porém a cobrança apareceu duas vezes nesta semana Isso é urgente.;pagamento;chat;treino
+REC-0105;Olá, a cor e o tamanho não correspondem ao pedido nesta semana Obrigado.;produto;email;validacao
+REC-0152;Boa tarde, o boleto foi pago e ainda aparece como vencido novamente Obrigado.;pagamento;chat;treino
+REC-0019;Olá, o pedido ainda não chegou e o prazo terminou até agora;entrega;site;treino
+REC-0035;  Preciso  de  ajuda: o endereço está correto, porém a transportadora não entregou há dois dias 😕  ;entrega;site;treino
+REC-0189;o prazo informado pelo atendente não foi cumprido novamente;atendimento;aplicativo;treino
+REC-0220;Olá, o código de postagem para troca não funciona na última tentativa Isso é urgente.;troca_devolucao;email;teste
+REC-0074;Gente, o aparelho desliga sozinho desde o primeiro uso na última tentativa Conseguem verificar?;produto;site;teste
+REC-0109;Preciso de ajuda: a peça veio faltando dentro da embalagem pela segunda vez Conseguem verificar?;produto;email;teste
+REC-0141;o desconto anunciado não foi aplicado no fechamento novamente Aguardo retorno.;pagamento;aplicativo;treino
+REC-0146;Boa tarde, o pedido chegou, porém a cobrança apareceu duas vezes no fim de semana 😕;pagamento;chat;treino
+REC-0218;Preciso de ajuda: quero devolver o produto dentro do prazo nesta semana Conseguem verificar?;troca_devolucao;email;treino
+REC-0075;Olá, a entrega foi rápida, mas o item veio quebrado novamente Isso é urgente.;produto;email;validacao
+REC-0134;Boa tarde, o pedido chegou, porém a cobrança apareceu duas vezes hoje pela manhã Obrigado.;troca_devolucao;chat;teste
+REC-0067;Preciso de ajuda: a entrega foi rápida, mas o item veio quebrado desde a compra;produto;email;treino
+REC-0227;Preciso de ajuda: a empresa recebeu a devolução, mas não confirmou o processo desde ontem 😕;troca_devolucao;site;treino
+REC-0006;Gente, recebi apenas parte dos itens do pedido novamente Obrigado.;entrega;email;teste
+REC-0140;Boa tarde, o boleto foi pago e ainda aparece como vencido na última tentativa Isso é urgente.;pagamento;chat;validacao
+REC-0167;Boa tarde, a orientação recebida não explica como resolver novamente Aguardo retorno.;atendimento;aplicativo;teste
+REC-0095;Gente, a entrega foi rápida, mas o item veio quebrado depois da atualização Isso é urgente.;produto;email;validacao
+REC-0183;O PRAZO INFORMADO PELO ATENDENTE NÃO FOI CUMPRIDO NO FIM DE SEMANA AGUARDO RETORNO.;atendimento;aplicativo;validacao
+REC-0063;Olá, a entrega foi rápida, mas o item veio quebrado na última tentativa 😕;produto;email;treino
+REC-0013;Olá, o produto parece correto, mas chegou muito depois do prazo há dois dias Aguardo retorno.;entrega;site;treino
+REC-0230;PRECISO DE AJUDA: QUERO DEVOLVER O PRODUTO DENTRO DO PRAZO DEPOIS DA ATUALIZAÇÃO;troca_devolucao;email;teste
+REC-0232;Olá, o código de postagem para troca não funciona novamente Obrigado.;troca_devolucao;email;treino
+REC-0081;Olá, a cor e o tamanho não correspondem ao pedido desde ontem 😕;produto;email;treino
+REC-0016;Olá, a caixa chegou depois da data prometida na última tentativa 😕;entrega;email;teste
+REC-0045;Gente, o produto parece correto, mas chegou muito depois do prazo desde ontem Conseguem verificar?;entrega;site;treino
+REC-0032;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada hoje pela manhã Aguardo retorno.;entrega;email;validacao
+REC-0065;Gente, o produto chegou quebrado e não funciona pela segunda vez 😕;produto;email;validacao
+REC-0237;Gente, o produto veio errado e agora não consigo iniciar a devolução no fim de semana Conseguem verificar?;troca_devolucao;site;treino
+REC-0204;o atendimento foi encerrado sem resolver a solicitação hoje pela manhã 😕;atendimento;chat;treino
+REC-0107;Gente, a entrega foi rápida, mas o item veio quebrado na última tentativa Obrigado.;produto;email;treino
+REC-0225;Gente, o produto veio errado e agora não consigo iniciar a devolução hoje pela manhã Aguardo retorno.;pagamento;site;teste
+REC-0087;  Olá,  a  entrega foi rápida, mas o item veio quebrado pela segunda vez Obrigado.  ;produto;email;treino
+REC-0094;Preciso de ajuda: a embalagem estava intacta, mas o produto veio com defeito nesta semana Isso é urgente.;produto;site;teste
+REC-0103;Preciso de ajuda: a entrega foi rápida, mas o item veio quebrado desde ontem;produto;email;treino
+REC-0062;Gente, o aparelho desliga sozinho desde o primeiro uso depois da atualização Aguardo retorno.;produto;site;treino
+REC-0004;Olá, a caixa chegou depois da data prometida depois da atualização Obrigado.;entrega;email;treino
+REC-0113;Gente, o produto chegou quebrado e não funciona no fim de semana Isso é urgente.;produto;email;treino
+REC-0100;Preciso de ajuda: a embalagem estava intacta, mas o produto veio com defeito desde a compra 😕;produto;site;validacao
+REC-0239;Preciso de ajuda: a empresa recebeu a devolução, mas não confirmou o processo há dois dias Isso é urgente.;troca_devolucao;site;treino
+REC-0214;Olá, o código de postagem para troca não funciona hoje pela manhã Obrigado.;troca_devolucao;email;treino
+REC-0224;Preciso de ajuda: quero devolver o produto dentro do prazo desde a compra Aguardo retorno.;troca_devolucao;email;treino
+REC-0139;Por favor, houve cobrança duplicada no cartão depois da atualização Isso é urgente.;pagamento;aplicativo;teste
+REC-0010;Olá, a caixa chegou depois da data prometida hoje pela manhã Isso é urgente.;entrega;email;treino
+REC-0194;Boa tarde, o produto veio com defeito e ninguém do suporte resolve no fim de semana Obrigado.;atendimento;chat;treino
+REC-0022;Olá, a caixa chegou depois da data prometida no fim de semana Obrigado.;entrega;email;validacao
+REC-0068;Gente, o aparelho desliga sozinho desde o primeiro uso hoje pela manhã;produto;site;treino
+REC-0207;Gente, a coleta da devolução foi agendada e ninguém apareceu nesta semana Aguardo retorno.;troca_devolucao;site;treino
+REC-0047;Preciso de ajuda: o endereço está correto, porém a transportadora não entregou nesta semana Isso é urgente.;entrega;site;validacao
+REC-0187;Por favor, não consigo falar com uma pessoa no suporte depois da atualização 😕;atendimento;aplicativo;teste
+REC-0147;o desconto anunciado não foi aplicado no fechamento desde ontem;pagamento;aplicativo;treino
+REC-0229;  Olá,  o  produto veio errado e agora não consigo iniciar a devolução nesta semana  ;troca_devolucao;site;treino
+REC-0036;Gente, recebi apenas parte dos itens do pedido nesta semana 😕;entrega;email;teste
+REC-0040;Olá, a caixa chegou depois da data prometida pela segunda vez Obrigado.;entrega;email;treino
+REC-0057;Gente, o produto parece correto, mas chegou muito depois do prazo há dois dias;entrega;site;validacao
+REC-0012;  Gente,  recebi  apenas parte dos itens do pedido desde ontem Isso é urgente.  ;entrega;email;validacao
+REC-0221;Preciso de ajuda: o produto veio errado e agora não consigo iniciar a devolução novamente Isso é urgente.;troca_devolucao;site;validacao
+REC-0092;Gente, o aparelho desliga sozinho desde o primeiro uso desde ontem Conseguem verificar?;produto;site;treino
+REC-0145;Por favor, houve cobrança duplicada no cartão hoje pela manhã 😕;pagamento;aplicativo;validacao
+REC-0126;  o  pedido  chegou, porém a cobrança apareceu duas vezes há dois dias 😕  ;pagamento;chat;treino
+REC-0037;Olá, o produto parece correto, mas chegou muito depois do prazo depois da atualização;entrega;site;validacao
+REC-0104;Gente, o aparelho desliga sozinho desde o primeiro uso há dois dias;produto;site;teste
+REC-0233;Preciso de ajuda: o produto veio errado e agora não consigo iniciar a devolução pela segunda vez Obrigado.;troca_devolucao;site;treino
+REC-0190;Por favor, o produto veio com defeito e ninguém do suporte resolve pela segunda vez;atendimento;chat;treino
+REC-0150;o pedido chegou, porém a cobrança apareceu duas vezes depois da atualização Obrigado.;pagamento;chat;validacao
+REC-0191;Boa tarde, a orientação recebida não explica como resolver até agora;atendimento;aplicativo;treino
+REC-0149;  Boa  tarde,  não consigo concluir o pagamento pelo aplicativo nesta semana  ;pagamento;aplicativo;teste
+REC-0050;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada novamente Aguardo retorno.;entrega;email;treino
+REC-0083;Gente, a entrega foi rápida, mas o item veio quebrado nesta semana 😕;produto;email;treino
+REC-0213;;troca_devolucao;site;treino
+REC-0042;Gente, recebi apenas parte dos itens do pedido desde a compra Obrigado.;entrega;email;validacao
+REC-0021;Gente, o produto parece correto, mas chegou muito depois do prazo hoje pela manhã;produto;site;teste
+REC-0240;Gente, preciso trocar o tamanho do item recebido nesta semana Isso é urgente.;troca_devolucao;email;teste
+REC-0030;Gente, recebi apenas parte dos itens do pedido até agora Isso é urgente.;entrega;email;treino
+REC-0090;Olá, o item recebido é diferente do anunciado hoje pela manhã Conseguem verificar?;produto;site;validacao
+REC-0168;o atendimento foi encerrado sem resolver a solicitação pela segunda vez 😕;atendimento;chat;validacao
+REC-0226;Olá, o código de postagem para troca nao funciona no fim de semana 😕;troca_devolucao;email;validacao
+REC-0116;Boa tarde, o boleto foi pago e ainda aparece como vencido nesta semana Obrigado.;pagamento;chat;treino
+REC-0015;Gente, o pacote está parado no rastreamento há vários dias depois da atualização Aguardo retorno.;entrega;site;treino
+REC-0236;Preciso de ajuda: quero devolver o produto dentro do prazo hoje pela manhã Conseguem verificar?;troca_devolucao;email;validacao
+REC-0053;Preciso de ajuda: o produto parece correto, mas chegou muito depois do prazo desde a compra 😕;entrega;site;treino
+REC-0137;Boa tarde, não consigo concluir o pagamento pelo aplicativo há dois dias Conseguem verificar?;pagamento;aplicativo;treino
+REC-0186;o produto veio com defeito e ninguém do suporte resolve nesta semana 😕;atendimento;chat;treino
+REC-0123;o desconto anunciado não foi aplicado no fechamento hoje pela manhã Aguardo retorno.;pagamento;aplicativo;treino
+REC-0223;Olá, solicitei a troca, mas ainda não recebi as instruções até agora Aguardo retorno.;troca_devolucao;site;treino
+REC-0073;Preciso de ajuda: a peça veio faltando dentro da embalagem depois da atualização Conseguem verificar?;produto;email;treino
+REC-0108;Olá, o item recebido é diferente do anunciado novamente Conseguem verificar?;produto;site;treino
+REC-0164;Boa tarde, recebi respostas diferentes para o mesmo problema nesta semana Isso é urgente.;atendimento;chat;treino
+REC-0041;Preciso de ajuda: o produto parece correto, mas chegou muito depois do prazo até agora Obrigado.;produto;site;teste
+REC-0024;Gente, recebi apenas parte dos itens do pedido há dois dias Obrigado.;entrega;email;treino
+REC-0080;Gente, o aparelho desliga sozinho desde o primeiro uso no fim de semana Aguardo retorno.;produto;site;validacao
+REC-0124;Por favor, o estorno ainda não apareceu na fatura no fim de semana Aguardo retorno.;pagamento;chat;teste
+REC-0161;Boa tarde, não consigo concluir o pagamento pelo aplicativo depois da atualização Aguardo retorno.;pagamento;aplicativo;treino
+REC-0206;  Preciso  de  ajuda: quero devolver o produto dentro do prazo há dois dias Aguardo retorno.  ;troca_devolucao;email;validacao
+REC-0084;Olá, o item recebido é diferente do anunciado depois da atualização;produto;site;teste
+REC-0125;BOA TARDE, NÃO CONSIGO CONCLUIR O PAGAMENTO PELO APLICATIVO DESDE ONTEM AGUARDO RETORNO.;pagamento;aplicativo;validacao
+REC-0118;Por favor, o pedido chegou, porém a cobrança apareceu duas vezes na última tentativa Conseguem verificar?;pagamento;chat;treino
+REC-0148;Por favor, o estorno ainda não apareceu na fatura há dois dias;pagamento;chat;treino
+REC-0121;Por favor, houve cobrança duplicada no cartão até agora Isso é urgente.;pagamento;aplicativo;treino
+REC-0203;Boa tarde, a orientação recebida não explica como resolver desde a compra Aguardo retorno.;atendimento;aplicativo;validacao
+REC-0211;Olá, solicitei a troca, mas ainda não recebi as instruções pela segunda vez;troca_devolucao;site;validacao
+REC-0166;POR FAVOR, O PRODUTO VEIO COM DEFEITO E NINGUÉM DO SUPORTE RESOLVE NA ÚLTIMA TENTATIVA AGUARDO RETORNO.;atendimento;chat;treino
+REC-0078;Olá, o item recebido é diferente do anunciado desde a compra Aguardo retorno.;produto;site;treino
+REC-0175;Por favor, não consigo falar com uma pessoa no suporte nesta semana Obrigado.;atendimento;aplicativo;treino
+REC-0099;Olá, a entrega foi rápida, mas o item veio quebrado até agora 😕;entrega;email;teste
+REC-0135;o desconto anunciado não foi aplicado no fechamento no fim de semana Conseguem verificar?;pagamento;aplicativo;validacao
+REC-0174;o produto veio com defeito e ninguém do suporte resolve há dois dias Obrigado.;atendimento;chat;treino
+REC-0072;OLÁ, O ITEM RECEBIDO É DIFERENTE DO ANUNCIADO NESTA SEMANA CONSEGUEM VERIFICAR?;produto;site;treino
+REC-0038;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada na última tentativa;entrega;email;treino
+REC-0205;Olá, o produto veio errado e agora não consigo iniciar a devolução desde ontem Aguardo retorno.;pagamento;site;teste
+REC-0209;Preciso de ajuda: o produto veio errado e agora não consigo iniciar a devolução na última tentativa 😕;troca_devolucao;site;treino
+REC-0163;Por favor, não consigo falar com uma pessoa no suporte há dois dias Isso é urgente.;atendimento;aplicativo;validacao
+REC-0049;Olá, o produto parece correto, mas chegou muito depois do prazo na última tentativa Aguardo retorno.;entrega;site;treino
+REC-0128;Boa tarde, o boleto foi pago e ainda aparece como vencido depois da atualização 😕;pagamento;chat;treino
+REC-0091;Preciso de ajuda: a entrega foi rápida, mas o item veio quebrado no fim de semana Conseguem verificar?;produto;email;treino
+REC-0061;Preciso de ajuda: a peça veio faltando dentro da embalagem nesta semana Aguardo retorno.;produto;email;treino
+REC-0131;Boa tarde, não consigo concluir o pagamento pelo aplicativo pela segunda vez;pagamento;aplicativo;treino
+REC-0020;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada desde a compra;entrega;email;treino
+REC-0185;Boa tarde, a orientação recebida não explica como resolver há dois dias Aguardo retorno.;atendimento;aplicativo;treino
+REC-0102;Olá, o item recebido é diferente do anunciado no fim de semana;produto;site;treino
+REC-0179;Boa tarde, a orientação recebida não explica como resolver pela segunda vez Conseguem verificar?;atendimento;aplicativo;treino
+REC-0210;Gente, preciso trocar o tamanho do item recebido novamente 😕;troca_devolucao;email;teste
+REC-0088;Preciso de ajuda: a embalagem estava intacta, mas o produto veio com defeito até agora Obrigado.;produto;site;treino
+REC-0142;POR FAVOR, O PEDIDO CHEGOU, PORÉM A COBRANÇA APARECEU DUAS VEZES PELA SEGUNDA VEZ AGUARDO RETORNO.;pagamento;chat;treino
+REC-0066;Olá, o item recebido é diferente do anunciado até agora;produto;site;treino
+REC-0018;Gente, recebi apenas parte dos itens do pedido pela segunda vez 😕;entrega;email;treino
+REC-0017;Preciso de ajuda: o produto parece correto, mas chegou muito depois do prazo novamente 😕;entrega;site;validacao
+REC-0093;Olá, a cor e o tamanho não correspondem ao pedido há dois dias Isso é urgente.;produto;email;treino
+REC-0005;Preciso de ajuda: o produto parece correto, mas chegou muito depois do prazo na última tentativa Obrigado.;entrega;site;treino
+REC-0162;o produto veio com defeito e ninguém do suporte resolve desde ontem Isso é urgente.;produto;chat;teste
+REC-0178;Por favor, o produto veio com defeito e ninguém do suporte resolve novamente Conseguem verificar?;atendimento;chat;validacao
+REC-0156;o pagamento foi aprovado, mas o pedido continua pendente hoje pela manhã Isso é urgente.;pagamento;chat;treino
+REC-0098;Gente, o aparelho desliga sozinho desde o primeiro uso pela segunda vez Aguardo retorno.;produto;site;treino
+REC-0052;Olá, a caixa chegou depois da data prometida até agora 😕;entrega;email;validacao
+REC-0058;  Olá,  a  caixa chegou depois da data prometida nesta semana Obrigado.  ;entrega;email;treino
+REC-0202;Por favor, o produto veio com defeito e ninguém do suporte resolve até agora Aguardo retorno.;produto;chat;teste
+REC-0195;o prazo informado pelo atendente nao foi cumprido desde ontem Conseguem verificar?;atendimento;aplicativo;treino
+REC-0031;Olá, o pedido ainda não chegou e o prazo terminou desde a compra Aguardo retorno.;entrega;site;teste
+REC-0219;Gente, a coleta da devolução foi agendada e ninguém apareceu depois da atualização Conseguem verificar?;troca_devolucao;site;treino
+REC-0173;  Boa  tarde,  a orientação recebida não explica como resolver desde ontem  ;atendimento;aplicativo;validacao
+REC-0025;Olá, o produto parece correto, mas chegou muito depois do prazo nesta semana Conseguem verificar?;entrega;site;treino
+REC-0215;Preciso de ajuda: a empresa recebeu a devolução, mas não confirmou o processo no fim de semana Obrigado.;troca_devolucao;site;teste
+REC-0151;Por favor, houve cobrança duplicada no cartão na última tentativa Obrigado.;pagamento;aplicativo;treino
+REC-0009;GENTE, O PRODUTO PARECE CORRETO, MAS CHEGOU MUITO DEPOIS DO PRAZO DESDE A COMPRA CONSEGUEM VERIFICAR?;entrega;site;treino
+REC-0136;Por favor, o estorno ainda não apareceu na fatura desde ontem Conseguem verificar?;pagamento;chat;treino
+REC-0133;Por favor, houve cobrança duplicada no cartão desde a compra Obrigado.;pagamento;aplicativo;treino
+REC-0077;Gente, o produto chegou quebrado e nao funciona até agora Isso é urgente.;produto;email;treino
+REC-0119;Boa tarde, não consigo concluir o pagamento pelo aplicativo novamente Conseguem verificar?;pagamento;aplicativo;teste
+REC-0188;Boa tarde, recebi respostas diferentes para o mesmo problema na última tentativa 😕;atendimento;chat;validacao
+REC-0085;Preciso de ajuda: a peça veio faltando dentro da embalagem na última tentativa;produto;email;validacao
+REC-0007;Olá, o pedido ainda não chegou e o prazo terminou pela segunda vez Conseguem verificar?;entrega;site;validacao
+REC-0196;  Por  favor,  o chat desconecta antes de finalizar o atendimento há dois dias Conseguem verificar?  ;atendimento;chat;treino
+REC-0048;Gente, recebi apenas parte dos itens do pedido depois da atualização Isso é urgente.;entrega;email;treino
+REC-0192;o atendimento foi encerrado sem resolver a solicitação desde a compra Obrigado.;atendimento;chat;teste
+REC-0008;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada até agora Conseguem verificar?;entrega;email;treino
+REC-0198;o produto veio com defeito e ninguém do suporte resolve depois da atualização Isso é urgente.;atendimento;chat;validacao
+REC-0169;Por favor, não consigo falar com uma pessoa no suporte até agora 😕;atendimento;aplicativo;treino
+REC-0235;Olá, solicitei a troca, mas ainda não recebi as instruções desde a compra Conseguem verificar?;troca_devolucao;site;teste
+REC-0002;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada há dois dias;entrega;email;validacao
+REC-0172;Por favor, o chat desconecta antes de finalizar o atendimento no fim de semana;atendimento;chat;teste
+REC-0122;Boa tarde, o pedido chegou, porém a cobrança apareceu duas vezes desde a compra Isso é urgente.;pagamento;chat;treino
+REC-0106;PRECISO DE AJUDA: A EMBALAGEM ESTAVA INTACTA, MAS O PRODUTO VEIO COM DEFEITO DEPOIS DA ATUALIZAÇÃO OBRIGADO.;produto;site;treino
+REC-0228;Gente, preciso trocar o tamanho do item recebido há dois dias 😕;troca_devolucao;email;treino
+REC-0055;Olá, o pedido ainda não chegou e o prazo terminou no fim de semana;entrega;site;treino
+REC-0165;o prazo informado pelo atendente não foi cumprido depois da atualização Aguardo retorno.;atendimento;aplicativo;treino
+REC-0120;o pagamento foi aprovado, mas o pedido continua pendente pela segunda vez Isso é urgente.;pagamento;chat;validacao
+REC-0155;Boa tarde, não consigo concluir o pagamento pelo aplicativo desde a compra Conseguem verificar?;pagamento;aplicativo;validacao
+REC-0208;Olá, o código de postagem para troca não funciona depois da atualização 😕;troca_devolucao;email;treino
+REC-0054;Gente, recebi apenas parte dos itens do pedido hoje pela manhã 😕;entrega;email;treino
+REC-0193;Por favor, não consigo falar com uma pessoa no suporte hoje pela manhã Obrigado.;atendimento;aplicativo;validacao
+REC-0111;Olá, a entrega foi rápida, mas o item veio quebrado desde a compra Isso é urgente.;produto;email;treino
+REC-0043;OLÁ, O PEDIDO AINDA NÃO CHEGOU E O PRAZO TERMINOU HOJE PELA MANHÃ CONSEGUEM VERIFICAR?;entrega;site;treino
+REC-0026;PRECISO DE AJUDA: A ENTREGA FOI MARCADA COMO CONCLUÍDA, MAS NÃO RECEBI NADA DEPOIS DA ATUALIZAÇÃO CONSEGUEM VERIFICAR?;entrega;email;teste
+REC-0182;Boa tarde, o produto veio com defeito e ninguém do suporte resolve hoje pela manhã Isso é urgente.;produto;chat;teste
+REC-0029;Preciso de ajuda: o produto parece correto, mas chegou muito depois do prazo pela segunda vez Isso é urgente.;entrega;site;treino
+REC-0114;o pedido chegou, porém a cobrança apareceu duas vezes desde ontem Obrigado.;troca_devolucao;chat;teste
+REC-0069;Olá, a cor e o tamanho não correspondem ao pedido no fim de semana Obrigado.;produto;email;teste
+REC-0180;;atendimento;chat;treino
+REC-0003;Gente, o pacote está parado no rastreamento há vários dias nesta semana;entrega;site;treino
+REC-0027;Gente, o pacote está parado no rastreamento há vários dias na última tentativa Conseguem verificar?;entrega;site;validacao
+REC-0160;Por favor, o estorno ainda não apareceu na fatura nesta semana Aguardo retorno.;pagamento;chat;validacao
+REC-0064;  Preciso  de  ajuda: a embalagem estava intacta, mas o produto veio com defeito novamente 😕  ;produto;site;teste
+REC-0071;Gente, a entrega foi rápida, mas o item veio quebrado há dois dias Obrigado.;produto;email;treino
+REC-0144;o pagamento foi aprovado, mas o pedido continua pendente desde a compra 😕;pagamento;chat;teste
+REC-0060;Olá, o item recebido é diferente do anunciado há dois dias Aguardo retorno.;produto;site;validacao
+REC-0199;Por favor, não consigo falar com uma pessoa no suporte na última tentativa Isso é urgente.;atendimento;aplicativo;treino
+REC-0159;O DESCONTO ANUNCIADO NÃO FOI APLICADO NO FECHAMENTO HÁ DOIS DIAS AGUARDO RETORNO.;pagamento;aplicativo;teste
+REC-0089;GENTE, O PRODUTO CHEGOU QUEBRADO E NÃO FUNCIONA DESDE A COMPRA OBRIGADO.;produto;email;teste
+REC-0197;Boa tarde, a orientação recebida não explica como resolver nesta semana Conseguem verificar?;atendimento;aplicativo;teste
+REC-0184;Por favor, o chat desconecta antes de finalizar o atendimento desde ontem Aguardo retorno.;atendimento;chat;treino
+REC-0217;Olá, o produto veio errado e agora não consigo iniciar a devolução há dois dias Conseguem verificar?;troca_devolucao;site;treino
+REC-0127;Por favor, houve cobrança duplicada no cartão nesta semana 😕;pagamento;aplicativo;treino
+REC-0201;o prazo informado pelo atendente não foi cumprido pela segunda vez Aguardo retorno.;atendimento;aplicativo;treino
+REC-0157;Por favor, houve cobrança duplicada no cartão no fim de semana Isso é urgente.;pagamento;aplicativo;treino
+REC-0170;Boa tarde, o produto veio com defeito e ninguém do suporte resolve desde a compra 😕;atendimento;chat;treino
+REC-0079;Preciso de ajuda: a entrega foi rápida, mas o item veio quebrado hoje pela manhã Aguardo retorno.;entrega;email;teste
+REC-0171;o prazo informado pelo atendente não foi cumprido hoje pela manhã;atendimento;aplicativo;treino
+REC-0130;Por favor, o pedido chegou, porém a cobrança apareceu duas vezes novamente;pagamento;chat;validacao
+REC-0154;Por favor, o pedido chegou, porém a cobrança apareceu duas vezes até agora Conseguem verificar?;troca_devolucao;chat;teste
+REC-0056;Preciso de ajuda: a entrega foi marcada como concluída, mas não recebi nada desde ontem;entrega;email;teste
+REC-0059;Gente, a entrega foi rápida, mas o item veio quebrado desde ontem Isso é urgente.;entrega;email;teste
+REC-0231;Gente, preciso trocar o tamanho do item recebido desde ontem Obrigado.;troca_devolucao;site;validacao
+REC-0115;Por favor, houve cobrança duplicada no cartão há dois dias Obrigado.;pagamento;aplicativo;validacao
+REC-0158;Boa tarde, não consigo concluir o pagamento pelo aplicativo até agora Aguardo retorno.;pagamento;chat;treino
+REC-0028;Gente, o pacote está parado no rastreamento há vários dias novamente;entrega;email;treino
+REC-0086;Gente, o aparelho desliga sozinho desde o primeiro uso novamente;produto;site;treino
